@@ -16,7 +16,7 @@ Precisamos desenvolver uma pequena interface que simule o funcionamento de saque
 * O valor solicitado será sempre positivo.
 * A quantidade de notas é infinita;
 
-Para validação, pode-se usar os exemplos abaixo:\
+Para validação, pode-se usar os exemplos abaixo:
 > Valor do Saque: **R$ 30,00**. Resultado Esperado: **1** nota de **R$ 20,00** e **1** nota de **R$ 10,00**.
 
 > Valor do Saque: **R$ 80,00**. Resultado Esperado: **1** nota de **R$ 50,00**, **1** nota de **R$ 20,00** e **1** nota de **R$ 10,00**.
