@@ -1,6 +1,6 @@
 # Sybank-Front-Test #
 
-imagem aqui
+![SY BANK LOGO](Logo.png)
 
 ## Descrição ##
 Precisamos desenvolver uma pequena interface que simule o funcionamento de saque em um caixa eletrônico. O usuário deve poder inserir o valor desejado e visualizar quais notas o caixa irá disponibilizar.
@@ -30,7 +30,7 @@ Os layouts podem ser encontrados no link: https://www.figma.com/file/YNG7dUBzTry
 
 Para este teste, deve-se utilizar o conceito *Mobile First*, então é possível encontrar as duas versões (desktop+mobile) na referência acima.
 
-imagem aqui
+![SY BANK LOGO](Mobile.png) ![SY BANK LOGO](Desktop.png)
 
 ## Instruções de Início e Entrega ##
 Para iniciar a atividade, você pode fazer o pull deste depositório em sua maquina e criar uma branch com o padrão **[nome do canditato]-frontend**.
