@@ -34,9 +34,8 @@ Um detalhe, o Figma possui um modo de protótipo navegável que você pode usar 
 
 ![SY BANK LOGO](Mobile.png) ![SY BANK LOGO](Desktop.png)
 
-## Instruções de Início e Entrega ##
-Para iniciar a atividade, você pode fazer o pull deste depositório em sua maquina e criar uma branch com o padrão **[nome do canditato]-frontend**.
-Ao finalizar, basta fazer um pull-request desta branch e nos informar por e-mail, tudo bem?
+## Instruções de Entrega ##
+Ao finalizar, basta fazer um pull do seu projeto nos enviar o link do repositório para avaliarmos, tudo bem?
 
 Faça o teste com calma, da forma que for mais confortável para você.
 
