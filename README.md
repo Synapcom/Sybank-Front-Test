@@ -6,7 +6,7 @@
 Precisamos desenvolver uma pequena interface que simule o funcionamento de saque em um caixa eletrônico. O usuário deve poder inserir o valor desejado e visualizar quais notas o caixa irá disponibilizar.
 
 ## Requisitos técnicos e funcionais ##
-* Desenvolver utilizando HTML, CSS e Javascript (Vanilla);
+* Desenvolver utilizando HTML, CSS e Javascript;
 * O caixa deve entregar sempre o menor número possível de notas;
 * O caixa deve validar se é possível sacar o valor solicitado com as notas disponíveis;
 * As notas disponíveis são: R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00;
@@ -29,6 +29,8 @@ Para validação, pode-se usar os exemplos abaixo:
 Os layouts podem ser encontrados no link: https://www.figma.com/file/YNG7dUBzTry4BmtfDGLMfl/Teste-Front-End-%7C-Synapcom-%7C-TI-%26-Sistemas?node-id=292%3A1365.\
 
 Para este teste, deve-se utilizar o conceito *Mobile First*, então é possível encontrar as duas versões (desktop+mobile) na referência acima.
+
+Um detalhe, o Figma possui um modo de protótipo navegável que você pode usar para visualizar as animações da tela.
 
 ![SY BANK LOGO](Mobile.png) ![SY BANK LOGO](Desktop.png)
 
