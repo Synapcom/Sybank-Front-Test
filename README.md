@@ -33,8 +33,9 @@ Para este teste, deve-se utilizar o conceito *Mobile First*, então é possível
 imagem aqui
 
 ## Instruções de Início e Entrega ##
-Para iniciar a atividade, você pode fazer o pull deste depositório em sua maquina e criar uma branch com o padrão **[nome do canditato]-frontend**.\
-Ao finalizar, basta fazer um pull-request desta branch e nos informar por e-mail, tudo bem?\
+Para iniciar a atividade, você pode fazer o pull deste depositório em sua maquina e criar uma branch com o padrão **[nome do canditato]-frontend**.
+Ao finalizar, basta fazer um pull-request desta branch e nos informar por e-mail, tudo bem?
 
-Faça o teste com calma, da forma que for mais confortável para você.\
+Faça o teste com calma, da forma que for mais confortável para você.
+
 Boa sorte! :D
